@@ -1,2 +1,2 @@
-# contacts-app repository
+# Angular contacts-app repository
 
